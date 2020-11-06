@@ -1,0 +1,19 @@
+
+.myDiv {border: 5px outset #000000;
+  background-color: #0080FF;
+  text-align: center;}
+
+  .myDiv2 {border: 5px outset #000000;
+  background-color: #FFFFFF;
+text-align: center;}
+
+.myDiv3 {border: 5px outset #000000;
+background-color: #F5A9D0;
+text-align: center;
+ }
+
+p {background-color: #000000;
+color: #FFFFFF;
+text-align: center;
+text-align: justify;
+}

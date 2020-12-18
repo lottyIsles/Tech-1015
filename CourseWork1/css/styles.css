@@ -1,7 +1,8 @@
 body {
   background-color: #D3D3D3;
 }
-
+/This sets the colour for my webpage, so on all my pages it is this colour/
+/This styles where my text goes and means I don't constantly have to go back putting in the same code as it's already done for me here/
 h1 {
   background-color: black;
   border: 1px black solid;
@@ -10,6 +11,8 @@ h1 {
   text-align: center;
   color: white;
 }
+
+
 
 p {
   background-color: black;
@@ -38,6 +41,8 @@ audio {
   margin-left: auto;
   margin-right: auto;s
 }
+
+/This coding places my media elements in the correct places whenever I use this code as it is now linked/
 
 footer {
   background-color: black;
